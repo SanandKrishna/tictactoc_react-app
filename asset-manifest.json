@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SanandKrishna/tictactoc_react-app/static/css/main.0c37e8a0.css",
+    "main.js": "/SanandKrishna/tictactoc_react-app/static/js/main.875748c2.js",
+    "static/js/787.8cd21fc3.chunk.js": "/SanandKrishna/tictactoc_react-app/static/js/787.8cd21fc3.chunk.js",
+    "index.html": "/SanandKrishna/tictactoc_react-app/index.html",
+    "main.0c37e8a0.css.map": "/SanandKrishna/tictactoc_react-app/static/css/main.0c37e8a0.css.map",
+    "main.875748c2.js.map": "/SanandKrishna/tictactoc_react-app/static/js/main.875748c2.js.map",
+    "787.8cd21fc3.chunk.js.map": "/SanandKrishna/tictactoc_react-app/static/js/787.8cd21fc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c37e8a0.css",
+    "static/js/main.875748c2.js"
+  ]
+}
